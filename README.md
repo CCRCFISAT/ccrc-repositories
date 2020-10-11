@@ -20,6 +20,6 @@ The repositories maintained under the Acharya Project is given in the bottom of 
 
 
 <h2> Acharya Project </h2>
-Python tutorials- https://github.com/CCRCFISAT/Acharya-Python
-Machine Learning Tutorials - https://github.com/CCRCFISAT/Acharya-MachineLearning
-C Programming Tutorials- https://github.com/CCRCFISAT/Acharya-CProgramming
+Python tutorials- https://github.com/CCRCFISAT/Acharya-Python </br>
+Machine Learning Tutorials - https://github.com/CCRCFISAT/Acharya-MachineLearning </br>
+C Programming Tutorials- https://github.com/CCRCFISAT/Acharya-CProgramming </br>
